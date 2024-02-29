@@ -5,3 +5,6 @@
 [submodule "PoDBAY"]
 	path = PoDBAY
 	url = https://github.com/cran/PoDBAY
+[submodule "vaxpmx"]
+	path = vaxpmx
+	url = https://github.com/cran/vaxpmx
